@@ -12,12 +12,12 @@
 
 **Это я знаю:**
 
-* [Сертификат React](https://github.com/DmitriyNov/certificates/RA.pdf)
-* [Сертификат Продвинутый JS в браузере](https://github.com/DmitriyNov/certificates/AHJ.pdf)
-* [Сертификат Продвинутый JS](https://github.com/DmitriyNov/certificates/AJS.pdf)
-* [Сертификат Основы JS в браузере](https://github.com/DmitriyNov/certificates/BHJ.pdf)
-* [Сертификат GIT](https://github.com/DmitriyNov/certificates/GIT.pdf)
-* [Сертификат Основы JS](https://github.com/DmitriyNov/certificates/BJS.pdf)
-* [Сертификат Основы программирования](https://github.com/DmitriyNov/certificates/PB.pdf)
-* [Сертификат Адаптивная вёрстка](https://github.com/DmitriyNov/certificates/MQ.pdf)
-* [Сертификат HTML, CSS](https://github.com/DmitriyNov/certificates/HTML.pdf)
+* [Сертификат React](https://github.com/DmitriyNov/certificates/blob/main/RA.pdf)
+* [Сертификат Продвинутый JS в браузере](https://github.com/DmitriyNov/certificates/blob/main/AHJ.pdf)
+* [Сертификат Продвинутый JS](https://github.com/DmitriyNov/certificates/blob/main/AJS.pdf)
+* [Сертификат Основы JS в браузере](https://github.com/DmitriyNov/certificates/blob/main/BHJ.pdf)
+* [Сертификат GIT](https://github.com/DmitriyNov/certificates/blob/main/GIT.pdf)
+* [Сертификат Основы JS](https://github.com/DmitriyNov/certificates/blob/main/BJS.pdf)
+* [Сертификат Основы программирования](https://github.com/DmitriyNov/certificates/blob/main/PB.pdf)
+* [Сертификат Адаптивная вёрстка](https://github.com/DmitriyNov/certificates/blob/main/MQ.pdf)
+* [Сертификат HTML, CSS](https://github.com/DmitriyNov/certificates/blob/main/HTML.pdf)
