@@ -1,10 +1,10 @@
 Привет, меня зовут **Дима**, и я начинающий Frontend-разработчик!
 
-Я завершаю обучение на курсе *"Frontend-разработчик* с нуля до midle" от Нетологии.
+Я недавно завершил обучение на курсе *"Frontend-разработчик* с нуля до midle" от Нетологии. Имею диплом профессиональной переподготовки с присвоением квалификации "Программист на JavaScript".
 
 **Это я сделал:**
 
-* [Дипломный проект](https://github.com/DmitriyNov/fe-diplom) (на стадии разработки)
+* [Дипломный проект](https://github.com/DmitriyNov/fe-diplom)
 * [Базовый JS в браузере](https://github.com/DmitriyNov/bhj-diploma)
 * [Базовый JS](https://github.com/DmitriyNov/bjs-diplom)
 * [Основы ограммирования](https://github.com/DmitriyNov/coursework_basics)
